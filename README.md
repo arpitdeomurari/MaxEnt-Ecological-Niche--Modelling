@@ -26,3 +26,9 @@ The user have to also decide which column to decide the identity of the species 
 
 #Evaluation of the model
 1) On top of the Area Under The Receiver Operating Characteristic Curve (AUC) which provided by the results of the last step, True Skills Statistics (TSS)and Symmetric Extremal      Dependence Index (SEDI) from the code in the "Testing of accuracy of model (TSS and SEDI)" folder
+
+#Sample of the results of the Model
+-The sample results of Allium Cepa (Oninon) is being provided. This can be found in the "Sample of results from the Model" folder.
+-The sample result consists of a map with the model predicted current distribution and the predicted distribution for 2061 for three climate scenarios of RCP 2.6, RCP 4.5 and     RCP 8.5. The map can be createdd using R, however the code is not provided in this repository
+-The four HTML files in the folder consists of the predicted areas of suitability for four different environmental suitability for the current, RCP 2.6, RCP 4.5 and RCP 8.5 climate scenarios. In the HTML file, value 1 to 4 refer to the corresponding environmental suitability (Unsuitable,   Poorly Suitable, Moderately Suitable and Highly Suitable).
+
